@@ -3,7 +3,7 @@
 This is an addon starter template based  on Android Tabs for the [Ionic Framework](http://ionicframework.com/) v1.
 
 
-## How to use this template
+
 
 
 
